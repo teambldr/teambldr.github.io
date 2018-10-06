@@ -1,0 +1,16 @@
+.patreon-button {
+    background-color: #f96854;
+    border-radius: 0;
+    border: 2px solid #f96854;
+    box-sizing: border-box;
+    display: inline-block;
+    font-weight: 700;
+    opacity: unset;
+    padding: 1rem 1.5rem;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    white-space: unset;
+    color: #ffffff;
+    font-size: 1rem;
+}

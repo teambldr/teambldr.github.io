@@ -1,34 +1,44 @@
 ---
 layout: default
 ---
-
+<link rel="stylesheet" href="site.css">
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+  <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+  <h2 class="post-list-heading">{{ page.list_title | default: "Articles" }}</h2>
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+    <li>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+      {%- if site.show_excerpts -%}
+      {{ post.excerpt }}
+      {%- endif -%}
+    </li>
+    {%- endfor -%}
+  </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  <h2 class="post-list-heading">Register your interest</h2>
+  <ul>
+    <li>in <a href="https://azmoz.typeform.com/to/MJFHex" target="_blank">dance classes</a></li>
+  </ul>
+
+  <h2 class="post-list-heading">Help us grow</h2>
+  <p>
+    If you want to support the team you can help us by donating or backing us on Patreon. Any amount would help support
+    and continue development on this project and is greatly appreciated.
+  </p>
+  <a href="https://www.patreon.com/teambldr" class="patreon-button" style="color: white">Become a
+    Patron</a>
+
   {%- endif -%}
-
 </div>
