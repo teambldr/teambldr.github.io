@@ -1,0 +1,6 @@
+---
+layout: page
+title: Purpose
+permalink: /purpose/
+---
+We want to bring together event organizers and participants. We want to help organize events and increase participation. We want to help people to find activities they are interested in attending. And we want to help organizers to find people for their events. We also want to let organizers know what the best time for their function based on the availability of interested people is. We want to make it easier to organize and self-organized events. One doesn't have to be an expert in running a game. We would do all tedious, difficult work of finding attendants communicating and synchronizing their schedule. This service is free for open public affairs. Essentially we want to bring people together by providing them a platform for quickly creating, finding and participating in events including sporting, dancing, entertaining and community gatherings. We believe people are missing on socializing. Humans are not meant to spend their time communicating with electronics. It doesn't make people happy. Belonging to a group of like-minded individuals brings happiness to people. That's what our ancestors did for thousands of years. They lived, worked and played together in groups and tribes. We want to bring people back together.

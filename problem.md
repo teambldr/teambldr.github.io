@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "My Problem"
+layout: page
+title: Problem
+permalink: /problem/
 ---
-
 Even in our super-connected time I see the problem with finding people to organize off-line activities, to build a sports team, get dances going or simply find the event to attend. To give a personal example, I love playing football. We have a social game going for over 20 years on Sunday afternoon. It is a free event. Somebody would bring a ball, and we would play in a public park with a made up goals from garden sticks and without a referee. I love this game. It's on my calendar every Sunday. I am looking forward to it for the whole week and organize my Sundays around it. My family knows it's game time. I see others enjoy it as well. And I'm sure there are plenty of people who live nearby and would love to join us and at the same time the game is struggling with participation numbers recently. Older players are stopped playing due to age and decreased physical ability, and we have trouble finding new players. I think there are many people out there who would like to play, but there's no easy way to reach them. We tried posting invitations on social media to little effect. Maybe we don't have a reach big enough or algorithms are not including our message in the right people's feeds? That's my problem I want to solve. I want to find players for my social game of football on Sunday evenings. I hope Team Builder will help me to do so.

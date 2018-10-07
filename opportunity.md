@@ -1,6 +1,6 @@
 ---
-layout: post
+layout: page
 title:  "Opportunity"
+permalink: /opportunity/
 ---
-
 We want to give people the opportunity to get away from their couches and TV sets and organise into teams and communities to spend time together. To play sports, dance, have fun. We want to build teams, organise communities, find tribes for people. People spend too much time sitting at home watching TV. This doesn't make people happy. A number of studies showed that. But it is hard to connect in the real world. Technology aimed at connecting people mostly succeed in connecting them to their phones. We want to make it easier for people to find strangers with the same interests and organise their schedule to find the time suitable for running events. Any events, including dance classes, sports games or community gatherings. We want to let people know what events are available for them in their spare time and according to their interests. Finding the right event to attend is hard. There's too much information you need to sift through to find your needle in a haystack. What makes it even harder is that you're looking through information designed to take your focus, divert your attention to itself. We offer people to express their interests and specify the time they are free to engage in the activity of their choosing and we push relevant information to them, allowing them to take actions.
