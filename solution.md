@@ -1,0 +1,6 @@
+---
+layout: page
+title:  "Solution"
+permalink: /solution/
+---
+We're inviting our users to tell us what activities they are interested in participating and what kind of events they would like to attend. An example would be dance classes, football, futsal, volleyball, kids sports practice, community fairs, social club meetings, etc. And we also ask for users availability. What day of the week and what time they fave free on their calendar to allocate to the chosen activity. The last piece of information is the user's location. We need a very rough area like a postcode or suburb so users won't have to commute to the event too far. When we get enough people with the same interest, availability time and living close enough to each other, we let them know. We give them an opportunity to get in touch and organize event of their choosing. And this service is free. We can also find an instructor, coach or professional organizer who will start a new paid event for those people. Apart from organizing new events, we have a database of already running events, and we direct new users to those events, matching their interests, availability, and location. We also give event attendees the ability to communicate if they are coming or not, so everybody knows if there'll be enough people attending to run the event.
