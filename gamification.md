@@ -1,0 +1,9 @@
+---
+layout: page
+title:  "Gamification"
+permalink: /gamification/
+---
+We had a very productive conversation with gamification guru [Kai Ashford-Hatherly](https://www.linkedin.com/in/kaiashfordhatherly/). Lots of exciting ideas emerged. We defined scope for our MVP app and going to start implementing it shortly. But more importantly, we identified some pain points and ways to address them through gamification of the system. We decided to introduce the user reputation scoring system. People would get reputation points for attending events. Earlier registered users will acquire more points. Points will be deducted when a person signs up for the event and fail to attend it. That is a big problem for organisers of most free events now. People register and not show up. Acquiring reputation points will unlock some bonus features like the ability to attend invitation-only events and being positioned higher on the free player pool list. Event organisers will send invites to selected players from the pool when they are looking for a substitute player or permanent member of their team. We also discussed the idea of establishing a virtual league by recording game results and ranking players by most attended games and win percentage. We will look into organising free events for league leaders and matching players from different venues and locations in season grand finals. Kai is very knowledgeable and a great sport. We need to attend his gamification workshop in the future.  
+
+----
+[Kai Ashford-Hatherly](https://www.linkedin.com/in/kaiashfordhatherly/), a Game Designer, Game Design Lecturer at SAE, User Experience Specialist & Gamification developer.
