@@ -1,0 +1,40 @@
+---
+---
+
+@import "minima";
+nav {
+    padding-left: 10px;
+    padding-right: 10px;
+    background: #3f51b5;
+}
+
+nav a:link{
+    color: white;
+}
+
+nav a:visited {
+    color: white;
+
+}
+
+.svg-icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    fill: white;
+    margin: 3px 5px 0px 0px;
+    vertical-align: text-top;
+    padding: 0px;
+}
+
+.footer-block {
+    background: #3f51b5;
+}
+
+.social-media-list a {
+    color: white;
+}
+
+.site-header {
+    border-top: 0px;
+}
