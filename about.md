@@ -3,16 +3,23 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<ul class="post-list">
+    <li>
+        <h3> <a class="post-link" href="/problem">Problem</a> </h3>
+    </li>
+    <li>
+        <h3> <a class="post-link" href="/purpose">Purpose</a> </h3>
+    </li>
+    <li>
+        <h3> <a class="post-link" href="/opportunity">Opportunity</a> </h3>
+    </li>
+    <li>
+        <h3> <a class="post-link" href="/solution">Solution</a> </h3>
+    </li>
+    <li>
+        <h3> <a class="post-link" href="/money">Money</a> </h3>
+    </li>
+    <li>
+        <h3> <a class="post-link" href="/gamification">Gamification</a> </h3>
+    </li>
+</ul>
